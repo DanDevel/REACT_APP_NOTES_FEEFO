@@ -25,3 +25,16 @@ Cloud Database = crud-crud.com or Local Flask Python Endpoint
 
 https://github.com/DanDevel/REACT_APP_NOTES_FEEFO/blob/main/FlaskPython_endPoints_React_Notes_App.rar
 
+
+
+## Info:
+
+| Features  | React-JS | React-Native |
+| ------------- | ------------- | ------------- |
+| Axios  | 1  | 1  |
+| Redux  | 1  | 1  |
+| Cloud DB  | 1  | 1  |
+| Local DB  | 1  | 1  |
+
+
+
