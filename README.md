@@ -15,7 +15,7 @@ APP (64MB): https://drive.google.com/file/d/1No6nBtlXzRT8q2j5oRXGeButTUA0sjMy/vi
 # REACT-NATIVE App:
 INFRA = REACT_NOTES_APP.drawio.pdf
 
-Cloud Database = crud-crud.com
+Cloud Database = crud-crud.com or Local Flask Python Endpoint
 
 
 
