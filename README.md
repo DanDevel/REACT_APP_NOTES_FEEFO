@@ -3,13 +3,14 @@ Feefo - UK
 
 
 
-# REACT-JS APP:
+# REACT-JS APP: (Gift App)
 INFRA = REACT_NOTES_APP.drawio.pdf
 
 Cloud Database = db.json
 
 APP (64MB): https://drive.google.com/file/d/1No6nBtlXzRT8q2j5oRXGeButTUA0sjMy/view?usp=sharing 
 
+## Use: Expo Framework with Axios & Redux
 
 
 # REACT-NATIVE APP:
