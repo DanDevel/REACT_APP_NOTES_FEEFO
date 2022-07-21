@@ -10,7 +10,7 @@ Cloud Database = db.json
 
 APP (64MB): https://drive.google.com/file/d/1No6nBtlXzRT8q2j5oRXGeButTUA0sjMy/view?usp=sharing 
 
-## Use: Expo Framework with Axios & Redux
+## Use:Axios & Redux
 
 
 # REACT-NATIVE APP (Gift App):
