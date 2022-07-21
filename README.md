@@ -17,7 +17,7 @@ INFRA = REACT_NOTES_APP.drawio.pdf
 
 Cloud Database = crud-crud.com or Local Flask Python Endpoint
 
-Use: Expo Framework with Axios & Redux
+## Use: Expo Framework with Axios & Redux
 
 
 
