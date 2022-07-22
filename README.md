@@ -53,7 +53,7 @@ Open project on VSCODE or EXPO.Dev online.
 
 
 # Flask / Python local endPoints & MongoDB:
-## You can use this opitional endPoints for a local mongo DB use, instead cloud database already available on the app.
+## You can use this opitional endPoints for a local mongo DB instead cloud database already available on the app.
 
 https://github.com/DanDevel/REACT_APP_NOTES_FEEFO/blob/main/FlaskPython_endPoints_React_Notes_App.rar
 
