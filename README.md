@@ -14,7 +14,7 @@ APP (64MB): https://drive.google.com/file/d/1No6nBtlXzRT8q2j5oRXGeButTUA0sjMy/vi
 ## Use: Axios & Redux
 
 
-### Infra - Ready to use in both local and cloud DB:
+### Infra: Fron. Back, API & Database - Ready to use in both local and cloud DB:
 Open project on VSCODE.
 
 | FEATURE  | FrontEnd  | BackEnd | Local Mongo DB | Cloud .Json DB |
@@ -37,7 +37,7 @@ Cloud Database = crud-crud.com or Local Flask Python Endpoint
 
 ## Use: Expo Framework with Axios & Redux
 
-### Infra - Ready to use in both local and cloud DB:
+### Infra: Fron. Back, API & Database  - Ready to use in both local and cloud DB:
 Open project on VSCODE or EXPO.Dev online.
 
 | FEATURE  | FrontEnd  | BackEnd | Local Mongo DB | Cloud .Json DB |
