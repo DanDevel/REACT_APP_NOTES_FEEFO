@@ -49,6 +49,7 @@ Open project on VSCODE or EXPO.Dev online.
 | Infra pdf  | 1  | 1  | 1  | 1  |
 
 See 'Welcome PAGE': https://github.com/DanDevel/REACT_APP_NOTES_FEEFO/blob/main/Welcome%20page.png 
+
 See 'LOGIN PAGE': https://github.com/DanDevel/REACT_APP_NOTES_FEEFO/blob/main/Login%20page.png 
 
 
