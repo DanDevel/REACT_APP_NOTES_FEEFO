@@ -64,14 +64,9 @@ https://github.com/DanDevel/REACT_APP_NOTES_FEEFO/blob/main/FlaskPython_endPoint
 
 
 
-## Info:
+## HLD - High Level Design Document: 
 
-| Features  | React-JS | React-Native |
-| ------------- | ------------- | ------------- |
-| Axios  | 1  | 1  |
-| Redux  | 1  | 1  |
-| Cloud DB  | 1  | 1  |
-| Local DB  | 1  | 1  |
+https://github.com/DanDevel/REACT_APP_NOTES_FEEFO/blob/main/HLD1.pdf 
 
 
 
